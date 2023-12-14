@@ -1,0 +1,14 @@
+{
+  "name": "ritesh", 
+  "version": "1.0.0",
+  "description": "This is a package while studying and exploring node and express ",
+  "main": "app.js",
+  "scripts": {
+    "nodemon":"nodemon app.js" 
+  },  
+  "author": "Harry Hatela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+} 
